@@ -6,14 +6,11 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Internship Experience"
-    url: "/#-internship-experience"
-
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Open Source Toolkit"
-    url: "/#-open-source-toolkit"
+  - title: "Projects"
+    url: "/#-projects"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
@@ -24,4 +21,7 @@ main:
   
   - title: "Reviewer"
     url: "/#-reviewer"
+
+  - title: "Others"
+    url: "/#-others"
 
