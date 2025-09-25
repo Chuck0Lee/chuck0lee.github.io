@@ -14,7 +14,6 @@ redirect_from:
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-{% <a href='https://scholar.google.com/citations?user=773qfVwAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fchuck0lee%2Fchuck0lee.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>  %}
 <span class='anchor' id='about-me'></span>
 
 I am currently a Ph.D student, School of Cyberspace Security, Cyberspace security, HangZhou Dianzi University.  
