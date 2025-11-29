@@ -25,7 +25,7 @@ My research interest includes Applied Cryptography, Internet of Vehicles, Identi
 
 
 # 🔥 News
-- 2025.03: &nbsp;🎉🎉 "paper! [[pdf]](https:)
+- 2025.11: &nbsp;🎉🎉 Q. Li et al., "LETA: A Lattice-based Efficient and Traceable Privacy-Preserving Batch Authentication Scheme for Vehicle Platoon in VANETs," in IEEE Journal on Selected Areas in Communications, doi: 10.1109/JSAC.2025.3636982. ([https:](https://ieeexplore.ieee.org/document/11268274))
 
 
 
@@ -36,9 +36,10 @@ My research interest includes Applied Cryptography, Internet of Vehicles, Identi
 
 # 📝 Publications
 
-1. Xia Y, Liu X, Wu H, et al. Secure Data Sensing, Computing, and Dissemination in Vehicular Ad Hoc Networks[M]. Springer, 2025.
-2. Li S, Li Q, Li M. A method for network intrusion detection based on GAN-CNN-BiLSTM. International Journal of Advanced Computer Science and Applications, 2023, 14(5).
-3. Shuangyuan L, Qichang L, Mengfan L, et al. Improved deep learning intrusion detection model based on GAN data enhancement. Journal of Intelligent & Fuzzy Systems, 2025, 49(1): 125-139.
+1.Q. Li Y. Xia et al., "LETA: A Lattice-based Efficient and Traceable Privacy-Preserving Batch Authentication Scheme for Vehicle Platoon in VANETs," in IEEE Journal on Selected Areas in Communications, 2025.
+2. Xia Y, Liu X, Wu H, et al. Secure Data Sensing, Computing, and Dissemination in Vehicular Ad Hoc Networks[M]. Springer, 2025.
+3. Li S, Li Q, Li M. A method for network intrusion detection based on GAN-CNN-BiLSTM. International Journal of Advanced Computer Science and Applications, 2023, 14(5).
+4. Shuangyuan L, Qichang L, Mengfan L, et al. Improved deep learning intrusion detection model based on GAN data enhancement. Journal of Intelligent & Fuzzy Systems, 2025, 49(1): 125-139.
 
 # 💻 Projects
 1. National Natural Science Foundation of China
