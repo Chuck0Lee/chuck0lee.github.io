@@ -25,7 +25,7 @@ My research interest includes Applied Cryptography, Internet of Vehicles, Identi
 
 
 # 🔥 News
-- 2025.11: &nbsp;🎉🎉 "LETA: A Lattice-based Efficient and Traceable Privacy-Preserving Batch Authentication Scheme for Vehicle Platoon in VANETs," in IEEE Journal on Selected Areas in Communications. ([Web](https://ieeexplore.ieee.org/document/11268274))
+- 2025.11: &nbsp;🎉🎉 "LETA: A Lattice-based Efficient and Traceable Privacy-Preserving Batch Authentication Scheme for Vehicle Platoon in VANETs," in IEEE Journal on Selected Areas in Communications. ([Online](https://ieeexplore.ieee.org/document/11268274))
 
 
 
