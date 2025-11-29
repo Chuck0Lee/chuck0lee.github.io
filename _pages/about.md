@@ -25,7 +25,7 @@ My research interest includes Applied Cryptography, Internet of Vehicles, Identi
 
 
 # 🔥 News
-- 2025.11: &nbsp;🎉🎉 Q. Li et al., "LETA: A Lattice-based Efficient and Traceable Privacy-Preserving Batch Authentication Scheme for Vehicle Platoon in VANETs," in IEEE Journal on Selected Areas in Communications, doi: 10.1109/JSAC.2025.3636982. ([https:](https://ieeexplore.ieee.org/document/11268274))
+- 2025.11: &nbsp;🎉🎉 "LETA: A Lattice-based Efficient and Traceable Privacy-Preserving Batch Authentication Scheme for Vehicle Platoon in VANETs," in IEEE Journal on Selected Areas in Communications. ([Web](https://ieeexplore.ieee.org/document/11268274))
 
 
 
@@ -36,29 +36,33 @@ My research interest includes Applied Cryptography, Internet of Vehicles, Identi
 
 # 📝 Publications
 
-1.Q. Li Y. Xia et al., "LETA: A Lattice-based Efficient and Traceable Privacy-Preserving Batch Authentication Scheme for Vehicle Platoon in VANETs," in IEEE Journal on Selected Areas in Communications, 2025.
+1. Q. Li, Y. Xia et al., "LETA: A Lattice-based Efficient and Traceable Privacy-Preserving Batch Authentication Scheme for Vehicle Platoon in VANETs," in IEEE Journal on Selected Areas in Communications, 2025. (CCF-A, TOP, IF:17.2)
 2. Xia Y, Liu X, Wu H, et al. Secure Data Sensing, Computing, and Dissemination in Vehicular Ad Hoc Networks[M]. Springer, 2025.
 3. Li S, Li Q, Li M. A method for network intrusion detection based on GAN-CNN-BiLSTM. International Journal of Advanced Computer Science and Applications, 2023, 14(5).
 4. Shuangyuan L, Qichang L, Mengfan L, et al. Improved deep learning intrusion detection model based on GAN data enhancement. Journal of Intelligent & Fuzzy Systems, 2025, 49(1): 125-139.
 
 # 💻 Projects
-1. National Natural Science Foundation of China
+1. National Natural Science Foundation of China (2024-)
+2. Scientific research project of Jilin Provincial Education Department (2021-2023)
 
 
 
 
 # 🎖 Honors and Awards
-- 2016-2017 President’s Scholarship Second Class (top 7%) 
-- 2016-2017 Merit Student (top 5%)
-- 2018-2019 Merit Student (top 5%) 
-- 2020 Outstanding Graduate Award (top 5%) 
+- 2022-2023 School Scholarship First Class (top 10%)
+- 2023-2024 School Scholarship First Class (top 2%)
+- 2022-2023 & 2023-2024 Excellent graduate student
+- Gold Award of the 14th "Challenge Cup" QinChuangYuan Platform National College Students' Entrepreneurship Competition (2nd)
+- Third Prize in the 11th "Certification Cup" Mathematical China Online Modeling Challenge in 2018
+- 3 items of software copyright
 
 # 😄 Academic Activities
-- 2025.06 - 2025.07 ICME 2025 Nantes, France. [[Image]](../images/ICME2021/index.html)
+- 2021.10 "Smart Space Network and Information Security" advanced training program
 
 
 # 📖 Reviewer 
-- IEEE 
+- IEEE Access
 
 
 # 🥚 Others
+- Fighting
