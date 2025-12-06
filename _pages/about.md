@@ -30,9 +30,9 @@ My research interest includes Applied Cryptography, Internet of Vehicles, Identi
 
 
 # 📖 Educations
-- 2024.05 - present, Ph.D. candidate in School of Cyberspace Security,  HangZhou Dianzi University, Zhejiang. 
-- 2020.09 - 2023.03, M.E. in Electrical and Electronic Information, Jilin University of Chemical Technology, Jilin. 
-- 2016-09 - 2020.06, B.E. in School of Computer Science and Technology, Hebei Finance University, Hebei. 
+- 2024.09 - present, Ph.D. candidate in School of Cyberspace Security,  HangZhou Dianzi University, Zhejiang. 
+- 2021.09 - 2024.06, M.E. in Electrical and Electronic Information, Jilin University of Chemical Technology, Jilin. 
+- 2016-09 - 2021.06, B.E. in School of Computer Science and Technology, Hebei Finance University, Hebei. 
 
 # 📝 Publications
 
