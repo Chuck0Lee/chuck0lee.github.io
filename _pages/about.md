@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D student, School of Cyberspace Security, Cyberspace security, HangZhou Dianzi University.  
+I am currently a Ph.D student, School of Cyberspace Security, Cyberspace security, Hangzhou Dianzi University.  
 
 My research interest includes Applied Cryptography, Internet of Vehicles, Identity Authentication, information security. 
 
@@ -30,7 +30,7 @@ My research interest includes Applied Cryptography, Internet of Vehicles, Identi
 
 
 # 📖 Educations
-- 2024.09 - present, Ph.D. candidate in School of Cyberspace Security,  HangZhou Dianzi University, Zhejiang. 
+- 2024.09 - present, Ph.D. candidate in School of Cyberspace Security,  Hangzhou Dianzi University, Zhejiang. 
 - 2021.09 - 2024.06, M.E. in Electrical and Electronic Information, Jilin University of Chemical Technology, Jilin. 
 - 2017.09 - 2021.06, B.E. in School of Computer Science and Technology, Hebei Finance University, Hebei. 
 
