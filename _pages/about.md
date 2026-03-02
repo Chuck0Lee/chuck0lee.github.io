@@ -40,6 +40,8 @@ My research interest includes Applied Cryptography, Internet of Vehicles, Identi
 2. Xia Y, Liu X, Wu H, Li Q. Secure Data Sensing, Computing, and Dissemination in Vehicular Ad Hoc Networks[M]. Springer, 2025.
 3. Li S, Li Q, Li M. A method for network intrusion detection based on GAN-CNN-BiLSTM. International Journal of Advanced Computer Science and Applications, 2023, 14(5).
 4. Shuangyuan L, Qichang L, Mengfan L, et al. Improved deep learning intrusion detection model based on GAN data enhancement. Journal of Intelligent & Fuzzy Systems, 2025, 49(1): 125-139.
+5. S. Li, Q. Li, M. Li. A method for network intrusion detection based on GAN-CNN-BiLSTM. International Journal of Advanced Computer Science and Applications, 2023, 14(5).
+6. S. Li, M. Li, Q. Li et al. Hyperchaotic Image Encryption System Based on Deep Learning LSTM. International Journal of Advanced Computer Science & Applications, 2023, 14(11).
 
 # 💻 Projects
 1. National Natural Science Foundation of China (2024-)
@@ -61,7 +63,7 @@ My research interest includes Applied Cryptography, Internet of Vehicles, Identi
 
 
 # 📖 Reviewer 
-- IEEE Access
+-  IEEE TIFS, IEEE TDSC, IEEE Access
 
 
 # 🥚 Others
