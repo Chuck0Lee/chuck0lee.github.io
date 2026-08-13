@@ -26,7 +26,7 @@ My research interest includes Applied Cryptography, Internet of Vehicles, Identi
 
 # 🔥 News
 - 2025.11: &nbsp;🎉🎉 "LETA: A Lattice-based Efficient and Traceable Privacy-Preserving Batch Authentication Scheme for Vehicle Platoon in VANETs," in IEEE Journal on Selected Areas in Communications. ([Online](https://ieeexplore.ieee.org/document/11268274))
-
+- 2026.08: &nbsp;🎉🎉 "PAPS: A Power-Aware and Physically-Secure Cross-Domain Authentication Scheme for UAV-Assisted VANETs," in IEEE Transactions on Dependable and Secure Computing. ([Online](https://ieeexplore.ieee.org/document/11268274))
 
 
 # 📖 Educations
@@ -37,11 +37,12 @@ My research interest includes Applied Cryptography, Internet of Vehicles, Identi
 # 📝 Publications
 
 1. Q. Li, Y. Xia et al., "LETA: A Lattice-based Efficient and Traceable Privacy-Preserving Batch Authentication Scheme for Vehicle Platoon in VANETs," in IEEE Journal on Selected Areas in Communications, 2025. (CCF-A, TOP, IF:17.2)
-2. Xia Y, Liu X, Wu H, Li Q. Secure Data Sensing, Computing, and Dissemination in Vehicular Ad Hoc Networks[M]. Springer, 2025.
-3. Li S, Li Q, Li M. A method for network intrusion detection based on GAN-CNN-BiLSTM. International Journal of Advanced Computer Science and Applications, 2023, 14(5).
-4. Shuangyuan L, Qichang L, Mengfan L, et al. Improved deep learning intrusion detection model based on GAN data enhancement. Journal of Intelligent & Fuzzy Systems, 2025, 49(1): 125-139.
-5. S. Li, Q. Li, M. Li. A method for network intrusion detection based on GAN-CNN-BiLSTM. International Journal of Advanced Computer Science and Applications, 2023, 14(5).
-6. S. Li, M. Li, Q. Li et al. Hyperchaotic Image Encryption System Based on Deep Learning LSTM. International Journal of Advanced Computer Science & Applications, 2023, 14(11).
+2. Liu, Xuejiao and Zhao, Xiang and Xia, Yingjie and Li, Yongyao and Zhang, Yuejun and Li, Qichang and Liu, Xuechao, "PAPS: A Power-Aware and Physically-Secure Cross-Domain Authentication Scheme for UAV-Assisted VANETs," in IEEE Transactions on Dependable and Secure Computing, 2026. (CCF-A, TOP, IF=6.8)
+4. Xia Y, Liu X, Wu H, Li Q. Secure Data Sensing, Computing, and Dissemination in Vehicular Ad Hoc Networks[M]. Springer, 2025.
+5. Li S, Li Q, Li M. A method for network intrusion detection based on GAN-CNN-BiLSTM. International Journal of Advanced Computer Science and Applications, 2023, 14(5).
+6. Shuangyuan L, Qichang L, Mengfan L, et al. Improved deep learning intrusion detection model based on GAN data enhancement. Journal of Intelligent & Fuzzy Systems, 2025, 49(1): 125-139.
+7. S. Li, Q. Li, M. Li. A method for network intrusion detection based on GAN-CNN-BiLSTM. International Journal of Advanced Computer Science and Applications, 2023, 14(5).
+8. S. Li, M. Li, Q. Li et al. Hyperchaotic Image Encryption System Based on Deep Learning LSTM. International Journal of Advanced Computer Science & Applications, 2023, 14(11).
 
 # 💻 Projects
 1. National Natural Science Foundation of China (2024-)
