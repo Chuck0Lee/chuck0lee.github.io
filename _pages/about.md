@@ -16,9 +16,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D student, School of Cyberspace Security, Cyberspace security, Hangzhou Dianzi University.  
+I am currently a PG Visiting Intern at The Hong Kong University of Science and Technology (HKUST) and a Ph.D. student in Cyberspace Security at the School of Cyberspace Security, Hangzhou Dianzi University.  
 
-My research interest includes Applied Cryptography, Internet of Vehicles, Identity Authentication, information security. 
+My research interest includes Applied Cryptography, Identity Authentication, AI Agent Security. 
 
 <a href='https://scholar.google.com/citations?user=773qfVwAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fchuck0lee%2Fchuck0lee.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> 
 
@@ -30,7 +30,8 @@ My research interest includes Applied Cryptography, Internet of Vehicles, Identi
 
 
 # 📖 Educations
-- 2024.09 - present, Ph.D. candidate in School of Cyberspace Security,  Hangzhou Dianzi University, Zhejiang. 
+- 2024.09 - present, Ph.D. candidate in School of Cyberspace Security,  Hangzhou Dianzi University, Zhejiang.
+- 2026.09 - present, PG Visiting Intern, The Hong Kong University of Science and Technology (HKUST), Hong Kong.
 - 2021.09 - 2024.06, M.E. in Electrical and Electronic Information, Jilin University of Chemical Technology, Jilin. 
 - 2017.09 - 2021.06, B.E. in School of Computer Science and Technology, Hebei Finance University, Hebei. 
 
