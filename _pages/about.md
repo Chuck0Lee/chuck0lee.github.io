@@ -37,7 +37,7 @@ My research interest includes Applied Cryptography, Identity Authentication, AI 
 # 📝 Publications
 
 1. **Q. Li**, Y. Xia et al., "LETA: A Lattice-based Efficient and Traceable Privacy-Preserving Batch Authentication Scheme for Vehicle Platoon in VANETs," in IEEE Journal on Selected Areas in Communications, 2025. (CCF-A, TOP, IF:17.2)
-2.  Y. Xia, **Q. Li** et al.,"DPGA: Decentralized and Privacy-Preserving Group Authentication for Data Interactions in Dynamic Vehicular Platoons," in IEEE Transactions on Dependable and Secure Computing, 2026.(CCF-A, TOP, IF=6.8)
+2.  Y. Xia, **Q. Li** et al., "DPGA: Decentralized and Privacy-Preserving Group Authentication for Data Interactions in Dynamic Vehicular Platoons," in IEEE Transactions on Dependable and Secure Computing, 2026.(CCF-A, TOP, IF=6.8)
 3. X. Liu, X. Zhao, Y. Xia, Y. Li, Y. Zhang, **Q. Li**, X. Liu, "PAPS: A Power-Aware and Physically-Secure Cross-Domain Authentication Scheme for UAV-Assisted VANETs," in IEEE Transactions on Dependable and Secure Computing, 2026. (CCF-A, TOP, IF=6.8)
 4. Y. Xia, X. Liu, H. Wu, **Q. Li**. Secure Data Sensing, Computing, and Dissemination in Vehicular Ad Hoc Networks[M]. Springer, 2025.
 5. S. Li, **Q. Li**, M. Li. A method for network intrusion detection based on GAN-CNN-BiLSTM. International Journal of Advanced Computer Science and Applications, 2023, 14(5).
