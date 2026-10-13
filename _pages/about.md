@@ -29,8 +29,8 @@ My research interest includes Applied Cryptography, Identity Authentication, AI 
 - 2026.10: &nbsp;🎉🎉 "DPGA: Decentralized and Privacy-Preserving Group Authentication for Data Interactions in Dynamic Vehicular Platoons," in IEEE Transactions on Dependable and Secure Computing.
 
 # 📖 Educations
-- 2024.09 - present, Ph.D. candidate in School of Cyberspace Security,  Hangzhou Dianzi University, Zhejiang.
 - 2026.09 - present, PG Visiting Intern, The Hong Kong University of Science and Technology (HKUST), Hong Kong.
+- 2024.09 - present, Ph.D. candidate in School of Cyberspace Security,  Hangzhou Dianzi University, Zhejiang.
 - 2021.09 - 2024.06, M.E. in Electrical and Electronic Information, Jilin University of Chemical Technology, Jilin. 
 - 2017.09 - 2021.06, B.E. in School of Computer Science and Technology, Hebei Finance University, Hebei. 
 
