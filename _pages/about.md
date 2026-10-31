@@ -26,7 +26,7 @@ My research interest includes Applied Cryptography, Identity Authentication, AI 
 
 # 🔥 News
 - 2026.11: &nbsp;🎉🎉 Zhejiang Provincial Natural Science Foundation of China
-- - 2026.10: &nbsp;🎉🎉 "DPGA: Decentralized and Privacy-Preserving Group Authentication for Data Interactions in Dynamic Vehicular Platoons," in IEEE Transactions on Dependable and Secure Computing. ([Online](https://ieeexplore.ieee.org/abstract/document/11737558))
+- 2026.10: &nbsp;🎉🎉 "DPGA: Decentralized and Privacy-Preserving Group Authentication for Data Interactions in Dynamic Vehicular Platoons," in IEEE Transactions on Dependable and Secure Computing. ([Online](https://ieeexplore.ieee.org/abstract/document/11737558))
 - 2026.08: &nbsp;🎉🎉 "PAPS: A Power-Aware and Physically-Secure Cross-Domain Authentication Scheme for UAV-Assisted VANETs," in IEEE Transactions on Dependable and Secure Computing. ([Online](https://doi.org/10.1109/TDSC.2026.3722643))
 
 # 📖 Educations
@@ -46,7 +46,7 @@ My research interest includes Applied Cryptography, Identity Authentication, AI 
 7. S. Li, M. Li, **Q. Li** et al. Hyperchaotic Image Encryption System Based on Deep Learning LSTM. International Journal of Advanced Computer Science & Applications, 2023, 14(11).
 
 # 💻 Projects
-1. Zhejiang Provincial Natural Science Foundation of China (2027.1-) Role: Project Leader
+1. Zhejiang Provincial Natural Science Foundation of China (Present)  20w Role: Project Leader
 2. National Natural Science Foundation of China (2024-Present)
 3. Scientific research project of Jilin Provincial Education Department (2021-2023)
 
