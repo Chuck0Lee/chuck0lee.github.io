@@ -46,7 +46,7 @@ My research interest includes Applied Cryptography, Identity Authentication, AI 
 7. S. Li, M. Li, **Q. Li** et al. Hyperchaotic Image Encryption System Based on Deep Learning LSTM. International Journal of Advanced Computer Science & Applications, 2023, 14(11).
 
 # 💻 Projects
-1. Zhejiang Provincial Natural Science Foundation of China (Present)  20w Role: Project Leader
+1. 2027. "Research on Continuous Trusted Interaction Mechanism for Embodied Intelligence", Zhejiang Provincial Natural Science Foundation of China,  Role: Project Leader
 2. National Natural Science Foundation of China (2024-Present)
 3. Scientific research project of Jilin Provincial Education Department (2021-2023)
 
