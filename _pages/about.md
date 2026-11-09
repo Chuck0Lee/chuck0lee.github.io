@@ -26,24 +26,24 @@ My research interest includes Applied Cryptography, Identity Authentication, AI 
 
 # 🔥 News
 - 2026.11: &nbsp;🎉🎉 Zhejiang Provincial Natural Science Foundation of China
-- 2026.10: &nbsp;🎉🎉 "DPGA: Decentralized and Privacy-Preserving Group Authentication for Data Interactions in Dynamic Vehicular Platoons," in IEEE Transactions on Dependable and Secure Computing. ([Online](https://ieeexplore.ieee.org/abstract/document/11737558))
-- 2026.08: &nbsp;🎉🎉 "PAPS: A Power-Aware and Physically-Secure Cross-Domain Authentication Scheme for UAV-Assisted VANETs," in IEEE Transactions on Dependable and Secure Computing. ([Online](https://doi.org/10.1109/TDSC.2026.3722643))
+- 2026.10: &nbsp;🎉🎉 "[DPGA: Decentralized and Privacy-Preserving Group Authentication for Data Interactions in Dynamic Vehicular Platoons](https://ieeexplore.ieee.org/abstract/document/11737558)," in IEEE Transactions on Dependable and Secure Computing. 
+- 2026.08: &nbsp;🎉🎉 "[PAPS: A Power-Aware and Physically-Secure Cross-Domain Authentication Scheme for UAV-Assisted VANETs](https://doi.org/10.1109/TDSC.2026.3722643)," in IEEE Transactions on Dependable and Secure Computing. 
 
 # 📖 Educations
 - 2026.09 - present, PG Visiting Intern, The Hong Kong University of Science and Technology (HKUST), Hong Kong.
-- 2024.09 - present, Ph.D. candidate in School of Cyberspace Security,  Hangzhou Dianzi University, Zhejiang.
+- 2024.09 - present, Ph.D. candidate in School of Cyberspace Security,  Hangzhou Dianzi University, Zhejiang. Supervisor: Prof. [Yingjie Xia](https://faculty.hdu.edu.cn/wdzyjzx/xyj2/main.htm).
 - 2021.09 - 2024.06, M.E. in Electrical and Electronic Information, Jilin University of Chemical Technology, Jilin. 
 - 2017.09 - 2021.06, B.E. in School of Computer Science and Technology, Hebei Finance University, Hebei. 
 
 # 📝 Publications
 
-1. **Q. Li**, Y. Xia et al., "LETA: A Lattice-based Efficient and Traceable Privacy-Preserving Batch Authentication Scheme for Vehicle Platoon in VANETs," in IEEE Journal on Selected Areas in Communications, 2025. (CCF-A, IF:17.2)
-2.  Y. Xia, **Q. Li** et al., "DPGA: Decentralized and Privacy-Preserving Group Authentication for Data Interactions in Dynamic Vehicular Platoons," in IEEE Transactions on Dependable and Secure Computing, 2026.(CCF-A, IF:6.8)
-3. X. Liu, X. Zhao, Y. Xia, Y. Li, Y. Zhang, **Q. Li**, X. Liu, "PAPS: A Power-Aware and Physically-Secure Cross-Domain Authentication Scheme for UAV-Assisted VANETs," in IEEE Transactions on Dependable and Secure Computing, 2026. (CCF-A, IF:6.8)
-4. Y. Xia, X. Liu, H. Wu, **Q. Li**. Secure Data Sensing, Computing, and Dissemination in Vehicular Ad Hoc Networks[M]. Springer, 2025.
-5. S. Li, **Q. Li**, M. Li. A method for network intrusion detection based on GAN-CNN-BiLSTM. International Journal of Advanced Computer Science and Applications, 2023, 14(5).
-6. S. Li, **Q. Li**, M. Li, et al. Improved deep learning intrusion detection model based on GAN data enhancement. Journal of Intelligent & Fuzzy Systems, 2025, 49(1): 125-139.
-7. S. Li, M. Li, **Q. Li** et al. Hyperchaotic Image Encryption System Based on Deep Learning LSTM. International Journal of Advanced Computer Science & Applications, 2023, 14(11).
+1. **Q. Li**, Y. Xia et al., "[LETA: A Lattice-based Efficient and Traceable Privacy-Preserving Batch Authentication Scheme for Vehicle Platoon in VANETs](https://ieeexplore.ieee.org/abstract/document/11268274)," in IEEE Journal on Selected Areas in Communications, 2025. (CCF-A, IF:17.2)
+2.  Y. Xia, **Q. Li** et al., "[DPGA: Decentralized and Privacy-Preserving Group Authentication for Data Interactions in Dynamic Vehicular Platoons](https://ieeexplore.ieee.org/abstract/document/11737558)," in IEEE Transactions on Dependable and Secure Computing, 2026.(CCF-A, IF:6.8)
+3. X. Liu, X. Zhao, Y. Xia, Y. Li, Y. Zhang, **Q. Li**, X. Liu, "[PAPS: A Power-Aware and Physically-Secure Cross-Domain Authentication Scheme for UAV-Assisted VANETs](https://doi.org/10.1109/TDSC.2026.3722643)," in IEEE Transactions on Dependable and Secure Computing, 2026. (CCF-A, IF:6.8)
+4. Y. Xia, X. Liu, H. Wu, **Q. Li**. [Secure Data Sensing, Computing, and Dissemination in Vehicular Ad Hoc Networks](https://link.springer.com/book/10.1007/978-981-96-0336-7) [M]. Springer, 2025.
+5. S. Li, **Q. Li**, M. Li. "[A method for network intrusion detection based on GAN-CNN-BiLSTM](https://www.proquest.com/openview/175afa53a183a6018621206b163bb52a/1?pq-origsite=gscholar&cbl=5444811)," in International Journal of Advanced Computer Science and Applications, 2023, 14(5).
+6. S. Li, **Q. Li**, M. Li, et al. "[Improved deep learning intrusion detection model based on GAN data enhancement](https://journals.sagepub.com/doi/abs/10.3233/JIFS-236285)," in Journal of Intelligent & Fuzzy Systems, 2025, 49(1): 125-139.
+7. S. Li, M. Li, **Q. Li** et al. "[Hyperchaotic Image Encryption System Based on Deep Learning LSTM](https://openurl.ebsco.com/EPDB%3Agcd%3A9%3A5767049/detailv2?sid=ebsco%3Aplink%3Acrawler-gcd&id=ebsco%3Agcd%3A174053641&crl=c&jrnl=2158107X&link_origin=scholar.google.com)," in International Journal of Advanced Computer Science & Applications, 2023, 14(11).
 
 # 💻 Projects
 1. Zhejiang Provincial Natural Science Foundation of China, "Research on Continuous Trusted Interaction Mechanism for Embodied Intelligence", 2027,   Role: Project Leader
